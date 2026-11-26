@@ -1,16 +1,13 @@
-## Hi there 👋
+# WB Legacy Holdings LLC
 
-<!--
-**WBLHLLC/WBLHLLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**We build and own businesses meant to last.**
 
-Here are some ideas to get you started:
+WB Legacy Holdings is a holding company. Each business we start has its own customers, its own offer and its own revenue. We run every one ourselves, and we build all of them to keep.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our businesses
+
+**AI Lead Response** (active): automation for local service businesses. It texts back missed calls, follows up on every lead and books the visit, so the work you miss still gets done.
+
+## Get in touch
+
+[wblegacyholdings.com](https://wblegacyholdings.com)
