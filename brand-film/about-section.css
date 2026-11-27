@@ -1,0 +1,1 @@
+.film-frame{border-radius:var(--r-lg);overflow:hidden;background:#000;box-shadow:0 24px 60px rgba(22,48,45,.18)}.film-frame video{display:block;width:100%;height:auto;aspect-ratio:16/9}
